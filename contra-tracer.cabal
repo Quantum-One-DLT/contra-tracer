@@ -5,7 +5,7 @@ synopsis:            A simple interface for logging, tracing and monitoring
 license:             Apache-2.0
 license-files:       LICENSE, NOTICE
 author:              Alexander Vieth
-maintainer:          operations@tbco.io
+maintainer:          operations@blockchain-company.io
 copyright:           2021 TBCO
 category:            Logging
 build-type:          Simple
